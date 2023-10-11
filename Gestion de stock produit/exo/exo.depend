@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1682081164 source:c:\users\remilien\desktop\exo\src\gestion.cpp
+	<iostream>
+	<string>
+	<vector>
+	"gestion.h"
+	<fstream>
+	<stdlib.h>
+
+1682055421 c:\users\remilien\desktop\exo\include\gestion.h
+	<string>
+
+1682074290 source:d:\devoir c++\exo\src\gestion.cpp
+	<iostream>
+	<string>
+	<vector>
+	"gestion.h"
+	<fstream>
+	<stdlib.h>
+
+1682086086 d:\devoir c++\exo\include\gestion.h
+	<string>
+	<iostream>
+

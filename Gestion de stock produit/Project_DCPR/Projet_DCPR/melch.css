@@ -1,0 +1,59 @@
+.container {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  input[type="text"],
+  input[type="name"],
+  select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border-radius: 0.5rem;
+    color: #07083b;
+    font-size: 0.98em;
+  }
+  
+  input[type="submit"] {
+    background: linear-gradient(rgb(6, 6, 75), rgb(114, 2, 2));
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
+  #feas{
+      background-image: url("image/PNH.png");
+      width: 144px;
+      height: 150px;
+      background-size: 80% 80%;
+      background-repeat: no-repeat;
+      position: relative;
+      left: 100px;
+      top: 10px;
+  
+  }
+  #tase{
+  color: antiquewhite;
+  font-size: 4em;
+  font-family:'Times New Roman', Times, serif;
+  text-align: center;
+  width: 100%;
+  padding-top: 40px;
+  }
+  header{
+      display: flex; 
+      background-color: rgb(3, 3, 85);
+      margin-bottom: 50px;
+      border-bottom: rgb(4, 51, 99) inset 1em;
+  }
+  body{
+    margin: 0 auto;
+  }

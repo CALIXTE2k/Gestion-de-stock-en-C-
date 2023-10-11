@@ -1,0 +1,49 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+  display: flex;
+  background-image: url("Images/color police.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-bottom: 50px;
+  align-items: center;
+}
+
+#logo {
+  background-image: url("Images/PNH.png");
+  width: 140px;
+  height: 140px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  margin-left: 40px;
+}
+
+#text_logo {
+  color: rgb(242, 246, 246);
+  font-size: 28px;
+  text-align: center;
+  flex-grow: 1;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+nav {
+  margin: 0 auto;
+  top: 0;
+  z-index: 1;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#text_logo1 {
+  color: black;
+  font-size: 24px;
+  text-align: center;
+  width: 100%;
+  margin-top: 30.5px;
+  font-family: 'Times New Roman', Times, serif;
+}
